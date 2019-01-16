@@ -1,0 +1,4 @@
+com\test\TestUI\UI\testBase\TestBase.class
+com\test\TestUI\UI\screenshot\ScreenShot.class
+com\test\TestUI\UI\excelReader\ExcelReader.class
+com\test\TestUI\UI\uiPageClass\LoginPage.class

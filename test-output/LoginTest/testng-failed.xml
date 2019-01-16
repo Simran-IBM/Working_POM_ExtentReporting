@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LoginTest]">
+  <test name="TC001_LoginTest_1_4(failed)">
+    <classes>
+      <class name="com.test.TestUI.UI.TC001_LoginTest1_WrongPassword">
+        <methods>
+          <include name="setUp"/>
+          <include name="loginTest1_WrongPassword"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -->
+    </classes>
+  </test> <!-- TC001_LoginTest_1_4(failed) -->
+</suite> <!-- Failed suite [LoginTest] -->

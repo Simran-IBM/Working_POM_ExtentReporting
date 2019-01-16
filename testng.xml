@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LoginTest" parallel="tests">
+<test name="TC001_LoginTest_1_4">
+<classes>
+<class name="com.test.TestUI.UI.TC001_LoginTest1_WrongPassword"></class>
+<class name="com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId"></class>
+<class name="com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password"></class>
+<class name="com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess"></class>
+</classes>
+</test>
+</suite>

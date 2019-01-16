@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+  </reporter-output>
+  <suite name="LoginTest" duration-ms="49441" started-at="2019-01-16T18:38:56Z" finished-at="2019-01-16T18:39:45Z">
+    <groups>
+    </groups>
+    <test name="TC001_LoginTest_1_4" duration-ms="49441" started-at="2019-01-16T18:38:56Z" finished-at="2019-01-16T18:39:45Z">
+      <class name="com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password">
+        <test-method status="PASS" signature="loginTest3_WrongEmailId_Password()[pri:0, instance:com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password@13805618]" name="loginTest3_WrongEmailId_Password" duration-ms="1453" started-at="2019-01-17T00:09:34Z" finished-at="2019-01-17T00:09:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest3_WrongEmailId_Password -->
+      </class> <!-- com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password -->
+      <class name="com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess">
+        <test-method status="PASS" signature="loginTest4_LoginSuccess()[pri:0, instance:com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess@56ef9176]" name="loginTest4_LoginSuccess" duration-ms="951" started-at="2019-01-17T00:09:35Z" finished-at="2019-01-17T00:09:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest4_LoginSuccess -->
+      </class> <!-- com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess -->
+      <class name="com.test.TestUI.UI.TC001_LoginTest1_WrongPassword">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.TestUI.UI.TC001_LoginTest1_WrongPassword@5cb9f472]" name="setUp" is-config="true" duration-ms="7275" started-at="2019-01-17T00:08:56Z" finished-at="2019-01-17T00:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId@cb644e]" name="setUp" is-config="true" duration-ms="6152" started-at="2019-01-17T00:09:03Z" finished-at="2019-01-17T00:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password@13805618]" name="setUp" is-config="true" duration-ms="7314" started-at="2019-01-17T00:09:09Z" finished-at="2019-01-17T00:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess@56ef9176]" name="setUp" is-config="true" duration-ms="13012" started-at="2019-01-17T00:09:16Z" finished-at="2019-01-17T00:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest1_WrongPassword()[pri:0, instance:com.test.TestUI.UI.TC001_LoginTest1_WrongPassword@5cb9f472]" name="loginTest1_WrongPassword" duration-ms="2959" started-at="2019-01-17T00:09:29Z" finished-at="2019-01-17T00:09:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest1_WrongPassword -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.TestUI.UI.TC001_LoginTest1_WrongPassword@5cb9f472]" name="endTest" is-config="true" duration-ms="2162" started-at="2019-01-17T00:09:36Z" finished-at="2019-01-17T00:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId@cb644e]" name="endTest" is-config="true" duration-ms="2088" started-at="2019-01-17T00:09:39Z" finished-at="2019-01-17T00:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password@13805618]" name="endTest" is-config="true" duration-ms="2334" started-at="2019-01-17T00:09:41Z" finished-at="2019-01-17T00:09:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess@56ef9176]" name="endTest" is-config="true" duration-ms="2063" started-at="2019-01-17T00:09:43Z" finished-at="2019-01-17T00:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -->
+      <class name="com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId">
+        <test-method status="PASS" signature="loginTest2_WrongEmailId()[pri:0, instance:com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId@cb644e]" name="loginTest2_WrongEmailId" duration-ms="1599" started-at="2019-01-17T00:09:32Z" finished-at="2019-01-17T00:09:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest2_WrongEmailId -->
+      </class> <!-- com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId -->
+    </test> <!-- TC001_LoginTest_1_4 -->
+  </suite> <!-- LoginTest -->
+</testng-results>

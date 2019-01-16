@@ -1,0 +1,132 @@
+2019-01-16 23:49:36,054 - com.test.TestUI.UI.Listener.ListenerTest -INFO - loginTest1_WrongPassword test case started
+2019-01-16 23:49:36,054 [main] INFO com.test.TestUI.UI.Listener.ListenerTest - loginTest1_WrongPassword test case started
+2019-01-16 23:49:40,096 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Rows populated in the Excel:4
+2019-01-16 23:49:40,096 [main] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Rows populated in the Excel:4
+2019-01-16 23:49:40,097 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Colums populated in the Excel:2
+2019-01-16 23:49:40,097 [main] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Colums populated in the Excel:2
+2019-01-16 23:49:40,190 - com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -INFO - admin-test@test.com
+2019-01-16 23:49:40,190 [main] INFO com.test.TestUI.UI.TC001_LoginTest1_WrongPassword - admin-test@test.com
+2019-01-16 23:49:40,191 - com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -INFO - admin
+2019-01-16 23:49:40,191 [main] INFO com.test.TestUI.UI.TC001_LoginTest1_WrongPassword - admin
+2019-01-16 23:49:40,192 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Email
+2019-01-16 23:49:40,192 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Email
+2019-01-16 23:49:40,921 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Entered Email Id
+2019-01-16 23:49:40,921 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Entered Email Id
+2019-01-16 23:49:40,922 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Enter Password
+2019-01-16 23:49:40,922 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Enter Password
+2019-01-16 23:49:41,289 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Clicked on Login Button
+2019-01-16 23:49:41,289 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Clicked on Login Button
+2019-01-16 23:49:42,529 - com.test.TestUI.UI.Listener.ListenerTest -INFO - The name of the testcase passed is :loginTest1_WrongPassword
+2019-01-16 23:49:42,529 [main] INFO com.test.TestUI.UI.Listener.ListenerTest - The name of the testcase passed is :loginTest1_WrongPassword
+2019-01-17 00:06:56,007 - com.test.TestUI.UI.Listener.ListenerTest -INFO - loginTest1_WrongPassword test case started
+2019-01-17 00:06:56,007 [main] INFO com.test.TestUI.UI.Listener.ListenerTest - loginTest1_WrongPassword test case started
+2019-01-17 00:06:57,412 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Rows populated in the Excel:4
+2019-01-17 00:06:57,412 [main] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Rows populated in the Excel:4
+2019-01-17 00:06:57,413 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Colums populated in the Excel:2
+2019-01-17 00:06:57,413 [main] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Colums populated in the Excel:2
+2019-01-17 00:06:57,422 - com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -INFO - admin-test@test.com
+2019-01-17 00:06:57,422 [main] INFO com.test.TestUI.UI.TC001_LoginTest1_WrongPassword - admin-test@test.com
+2019-01-17 00:06:57,423 - com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -INFO - admin
+2019-01-17 00:06:57,423 [main] INFO com.test.TestUI.UI.TC001_LoginTest1_WrongPassword - admin
+2019-01-17 00:06:57,423 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Email
+2019-01-17 00:06:57,423 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Email
+2019-01-17 00:06:57,598 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Entered Email Id
+2019-01-17 00:06:57,598 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Entered Email Id
+2019-01-17 00:06:57,599 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Enter Password
+2019-01-17 00:06:57,599 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Enter Password
+2019-01-17 00:06:57,855 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Clicked on Login Button
+2019-01-17 00:06:57,855 [main] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Clicked on Login Button
+2019-01-17 00:06:58,848 - com.test.TestUI.UI.Listener.ListenerTest -INFO - The name of the testcase passed is :loginTest1_WrongPassword
+2019-01-17 00:06:58,848 [main] INFO com.test.TestUI.UI.Listener.ListenerTest - The name of the testcase passed is :loginTest1_WrongPassword
+2019-01-17 00:09:05,731 - com.test.TestUI.UI.testBase.TestBase -INFO - Creating Object of:chrome
+2019-01-17 00:09:05,731 [TestNG] INFO com.test.TestUI.UI.testBase.TestBase - Creating Object of:chrome
+2019-01-17 00:09:05,736 - com.test.TestUI.UI.testBase.TestBase -INFO - Navigating to:https://www.phptravels.net/login
+2019-01-17 00:09:05,736 [TestNG] INFO com.test.TestUI.UI.testBase.TestBase - Navigating to:https://www.phptravels.net/login
+2019-01-17 00:09:11,898 - com.test.TestUI.UI.testBase.TestBase -INFO - Creating Object of:chrome
+2019-01-17 00:09:11,898 [TestNG] INFO com.test.TestUI.UI.testBase.TestBase - Creating Object of:chrome
+2019-01-17 00:09:11,899 - com.test.TestUI.UI.testBase.TestBase -INFO - Navigating to:https://www.phptravels.net/login
+2019-01-17 00:09:11,899 [TestNG] INFO com.test.TestUI.UI.testBase.TestBase - Navigating to:https://www.phptravels.net/login
+2019-01-17 00:09:19,221 - com.test.TestUI.UI.testBase.TestBase -INFO - Creating Object of:chrome
+2019-01-17 00:09:19,221 [TestNG] INFO com.test.TestUI.UI.testBase.TestBase - Creating Object of:chrome
+2019-01-17 00:09:19,222 - com.test.TestUI.UI.testBase.TestBase -INFO - Navigating to:https://www.phptravels.net/login
+2019-01-17 00:09:19,222 [TestNG] INFO com.test.TestUI.UI.testBase.TestBase - Navigating to:https://www.phptravels.net/login
+2019-01-17 00:09:29,935 - com.test.TestUI.UI.Listener.ListenerTest -INFO - loginTest1_WrongPassword test case started
+2019-01-17 00:09:29,935 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - loginTest1_WrongPassword test case started
+2019-01-17 00:09:31,163 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Rows populated in the Excel:4
+2019-01-17 00:09:31,163 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Rows populated in the Excel:4
+2019-01-17 00:09:31,164 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Colums populated in the Excel:2
+2019-01-17 00:09:31,164 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Colums populated in the Excel:2
+2019-01-17 00:09:31,173 - com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -INFO - admin-test@test.com
+2019-01-17 00:09:31,173 [TestNG] INFO com.test.TestUI.UI.TC001_LoginTest1_WrongPassword - admin-test@test.com
+2019-01-17 00:09:31,174 - com.test.TestUI.UI.TC001_LoginTest1_WrongPassword -INFO - admin
+2019-01-17 00:09:31,174 [TestNG] INFO com.test.TestUI.UI.TC001_LoginTest1_WrongPassword - admin
+2019-01-17 00:09:31,174 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Email
+2019-01-17 00:09:31,174 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Email
+2019-01-17 00:09:31,401 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Entered Email Id
+2019-01-17 00:09:31,401 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Entered Email Id
+2019-01-17 00:09:31,401 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Enter Password
+2019-01-17 00:09:31,401 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Enter Password
+2019-01-17 00:09:31,676 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Clicked on Login Button
+2019-01-17 00:09:31,676 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Clicked on Login Button
+2019-01-17 00:09:32,895 - com.test.TestUI.UI.Listener.ListenerTest -INFO - The name of the testcase passed is :loginTest1_WrongPassword
+2019-01-17 00:09:32,895 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - The name of the testcase passed is :loginTest1_WrongPassword
+2019-01-17 00:09:32,927 - com.test.TestUI.UI.Listener.ListenerTest -INFO - loginTest2_WrongEmailId test case started
+2019-01-17 00:09:32,927 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - loginTest2_WrongEmailId test case started
+2019-01-17 00:09:32,999 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Rows populated in the Excel:4
+2019-01-17 00:09:32,999 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Rows populated in the Excel:4
+2019-01-17 00:09:33,000 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Colums populated in the Excel:2
+2019-01-17 00:09:33,000 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Colums populated in the Excel:2
+2019-01-17 00:09:33,001 - com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId -INFO - admin@test.com
+2019-01-17 00:09:33,001 [TestNG] INFO com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId - admin@test.com
+2019-01-17 00:09:33,001 - com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId -INFO - admin1
+2019-01-17 00:09:33,001 [TestNG] INFO com.test.TestUI.UI.TC002_LoginTest2_WrongEmailId - admin1
+2019-01-17 00:09:33,001 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Email
+2019-01-17 00:09:33,001 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Email
+2019-01-17 00:09:33,199 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Entered Email Id
+2019-01-17 00:09:33,199 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Entered Email Id
+2019-01-17 00:09:33,200 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Enter Password
+2019-01-17 00:09:33,200 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Enter Password
+2019-01-17 00:09:33,489 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Clicked on Login Button
+2019-01-17 00:09:33,489 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Clicked on Login Button
+2019-01-17 00:09:34,527 - com.test.TestUI.UI.Listener.ListenerTest -INFO - The name of the testcase passed is :loginTest2_WrongEmailId
+2019-01-17 00:09:34,527 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - The name of the testcase passed is :loginTest2_WrongEmailId
+2019-01-17 00:09:34,529 - com.test.TestUI.UI.Listener.ListenerTest -INFO - loginTest3_WrongEmailId_Password test case started
+2019-01-17 00:09:34,529 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - loginTest3_WrongEmailId_Password test case started
+2019-01-17 00:09:34,573 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Rows populated in the Excel:4
+2019-01-17 00:09:34,573 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Rows populated in the Excel:4
+2019-01-17 00:09:34,573 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Colums populated in the Excel:2
+2019-01-17 00:09:34,573 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Colums populated in the Excel:2
+2019-01-17 00:09:34,574 - com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password -INFO - admin@test.com
+2019-01-17 00:09:34,574 [TestNG] INFO com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password - admin@test.com
+2019-01-17 00:09:34,574 - com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password -INFO - admin
+2019-01-17 00:09:34,574 [TestNG] INFO com.test.TestUI.UI.TC003_LoginTest3_WrongEmailId_Password - admin
+2019-01-17 00:09:34,574 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Email
+2019-01-17 00:09:34,574 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Email
+2019-01-17 00:09:34,742 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Entered Email Id
+2019-01-17 00:09:34,742 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Entered Email Id
+2019-01-17 00:09:34,742 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Enter Password
+2019-01-17 00:09:34,742 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Enter Password
+2019-01-17 00:09:34,981 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Clicked on Login Button
+2019-01-17 00:09:34,981 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Clicked on Login Button
+2019-01-17 00:09:35,982 - com.test.TestUI.UI.Listener.ListenerTest -INFO - The name of the testcase passed is :loginTest3_WrongEmailId_Password
+2019-01-17 00:09:35,982 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - The name of the testcase passed is :loginTest3_WrongEmailId_Password
+2019-01-17 00:09:35,985 - com.test.TestUI.UI.Listener.ListenerTest -INFO - loginTest4_LoginSuccess test case started
+2019-01-17 00:09:35,985 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - loginTest4_LoginSuccess test case started
+2019-01-17 00:09:36,038 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Rows populated in the Excel:4
+2019-01-17 00:09:36,038 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Rows populated in the Excel:4
+2019-01-17 00:09:36,039 - com.test.TestUI.UI.excelReader.ExcelReader -INFO - Number of Colums populated in the Excel:2
+2019-01-17 00:09:36,039 [TestNG] INFO com.test.TestUI.UI.excelReader.ExcelReader - Number of Colums populated in the Excel:2
+2019-01-17 00:09:36,040 - com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess -INFO - admin-test@test.com
+2019-01-17 00:09:36,040 [TestNG] INFO com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess - admin-test@test.com
+2019-01-17 00:09:36,040 - com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess -INFO - admin1
+2019-01-17 00:09:36,040 [TestNG] INFO com.test.TestUI.UI.TC004_LoginTest4_LoginSuccess - admin1
+2019-01-17 00:09:36,040 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Email
+2019-01-17 00:09:36,040 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Email
+2019-01-17 00:09:36,227 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Entered Email Id
+2019-01-17 00:09:36,227 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Entered Email Id
+2019-01-17 00:09:36,227 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Enter Password
+2019-01-17 00:09:36,227 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Enter Password
+2019-01-17 00:09:36,490 - com.test.TestUI.UI.uiPageClass.LoginPage -INFO - Clicked on Login Button
+2019-01-17 00:09:36,490 [TestNG] INFO com.test.TestUI.UI.uiPageClass.LoginPage - Clicked on Login Button
+2019-01-17 00:09:36,936 - com.test.TestUI.UI.Listener.ListenerTest -INFO - The name of the testcase passed is :loginTest4_LoginSuccess
+2019-01-17 00:09:36,936 [TestNG] INFO com.test.TestUI.UI.Listener.ListenerTest - The name of the testcase passed is :loginTest4_LoginSuccess
